@@ -14,6 +14,6 @@ frutas.append("abacaxi")
 #append() adiciona um item no final da lista
 print("Lista atualizada:", frutas)
 
-#Remova uma fruta da lista e mostre o resultado final
+#Remova uma fruta da lista e mostre o resultado final.
 frutas.remove("banana")
 print("Lista atualizada:", frutas)
