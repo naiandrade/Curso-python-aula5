@@ -1,4 +1,4 @@
-#Resolva - Pedir o valor ao usuário (input) Mostrar o desconto em % também
+#Resolva - Pedir o valor ao usuário (input) Mostrar o desconto em % também.
 valor = float(input("Digite o valor da compra: "))
 #input() sempre retorna texto
 #float() converte para número com decimal (ex: 1500.50)
