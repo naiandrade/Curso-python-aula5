@@ -1,5 +1,4 @@
-#Crie um programa em Python que:
-# Crie uma lista chamada frutas com pelo menos 5 frutas Mostre:
+# Criar uma lista chamada frutas com pelo menos 5 frutas Mostre:
 #A lista completa
 #A terceira fruta da lista
 #A quantidade de frutas na lista
