@@ -14,6 +14,7 @@ print ("Valor da compra:", valor)
 print ("deconto:", valor)
 print ("Valor final:", total_com_desconto)
 
+
 #if → primeira condição
 #elif → outra condição
 #else → caso nenhuma seja verdadeira
